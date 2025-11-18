@@ -4,8 +4,8 @@
 **"El código es el lenguaje del futuro. Escribamos la historia."**
 
 <a href="https://github.com/CCDani/GitHub-Language-Stats">
-    <img src="URL_DE_TU_TARJETA_DE_ESTADISTICAS_1" alt="Estadísticas de GitHub" />
-    <img src="URL_DE_TU_TARJETA_DE_ESTADISTICAS_2" alt="Lenguajes Más Usados" />
+    <img src="https://github.com/CCDani/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Estadísticas de GitHub" />
+    <img src="https://github.com/CCDani/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Lenguajes Más Usados" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CCDani)
