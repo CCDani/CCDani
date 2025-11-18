@@ -3,7 +3,7 @@
 
 **"El código es el lenguaje del futuro. Escribamos la historia."**
 
-<a href="https://github.com/tu-usuario/tu-repo-de-stats">
+<a href="https://github.com/CCDani/tu-repo-de-stats">
     <img src="URL_DE_TU_TARJETA_DE_ESTADISTICAS_1" alt="Estadísticas de GitHub" />
     <img src="URL_DE_TU_TARJETA_DE_ESTADISTICAS_2" alt="Lenguajes Más Usados" />
 </a>
