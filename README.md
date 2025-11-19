@@ -30,8 +30,10 @@ Este repositorio (y la automatización que lo respalda) refleja mis habilidades 
 
 | Área de Enfoque | Proyectos Clave |
 | :--- | :--- |
-| **Ciberseguridad & Análisis** | **Nmap Dashboard Analyzer** (GUI Python), **DynamicWeb IOC-Checker** (Web/Flask). |
-| **GUI & Monitoreo** | **Monitor de Recursos Gaming** (Dashboard en tiempo real con PyQt6). |
+| **Ciberseguridad** | **Nmap Dashboard Analyzer** (GUI Python) |
+| **Análisis** | **DynamicWeb IOC-Checker** (Web/Flask). |
+| **Monitoreo** | **Monitor de Recursos Gaming** (Dashboard en tiempo real con PyQt6). |
+| **GUI** | **QR-Studio v2.1 (Aplicación de Escritorio)** Python, Qt, Personalización de código QR, vista previa en tiempo real. |
 
 ---
 
