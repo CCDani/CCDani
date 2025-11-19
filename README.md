@@ -81,6 +81,9 @@ Este repositorio (y la automatización que lo respalda) refleja mis habilidades 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CCDani/QR-Studio/refs/heads/main/Captura.JPG" alt="Captura de QR-Studio" width="790"/>
 </p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 ---
