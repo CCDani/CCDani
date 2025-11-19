@@ -33,20 +33,33 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CCDani)
 ## 🔎 Resumen del Portafolio y Habilidades Clave
 
-Este repositorio (y la automatización que lo respalda) refleja mis habilidades en desarrollo de *bots*, herramientas de escritorio y aplicaciones web.
-
 | Área de Enfoque | Proyectos Clave |
 | :--- | :--- |
-| **Ciberseguridad** | **Nmap Dashboard Analyzer** (GUI Python) |
+| **Ciberseguridad** | **NetSentry** (Bash, Nmap, ARP, xml) // **Nmap Dashboard Analyzer** (GUI Python) //  |
 | **Análisis** | **DynamicWeb IOC-Checker** (Web/Flask). |
 | **Monitoreo** | **Monitor de Recursos Gaming** (Dashboard en tiempo real con PyQt6). |
 | **GUI** | **QR-Studio v2.1 (Aplicación de Escritorio)** Python, Qt, Personalización de código QR, vista previa en tiempo real. |
 
 ---
-
 ## 🛡️ Proyectos de Ciberseguridad & Análisis
 
-### 1. Nmap Dashboard Analyzer (GUI)
+### 1. NetSentry (Bash)
+* **Descripción y Enfoque:** Potente script de auditoría que combina la precisión de Nmap con la detección de CVEs de Vulners. NetSentry organiza tus proyectos, automatiza el descubrimiento de red y emplea un escaneo de doble fase para máxima velocidad. Ideal para pentesters que necesitan reportes XML estructurados y gestión de clientes.
+* **Tecnologías:** Bash, Nmap, ARP, ipcalc, xml.
+* **Enlace al Repo:** [https://github.com/CCDani/NetSentry](https://github.com/CCDani/NetSentry)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CCDani/NetSentry/refs/heads/main/Captura.JPG" alt="Captura de Nmap Dashboard Analyzer" width="890"/>
+</p>
+
+
+
+
+
+---
+
+
+### 2. Nmap Dashboard Analyzer (GUI)
 * **Descripción y Enfoque:** Aplicación de escritorio (PySide6) que transforma reportes Nmap XML en un dashboard interactivo con **priorización por puntuación CVSS**.
 * **Tecnologías:** Python, PySide6, Pandas, OpenPyXL.
 * **Enlace al Repo:** [https://github.com/CCDani/nmap-dashboard-analyzer](https://github.com/CCDani/nmap-dashboard-analyzer)
@@ -57,7 +70,7 @@ Este repositorio (y la automatización que lo respalda) refleja mis habilidades 
 
 ---
 
-### 2. DynamicWeb IOC-Checker (Web)
+### 3. DynamicWeb IOC-Checker (Web)
 * **Descripción y Enfoque:** Aplicación web dinámica (Flask) para **consultar IOCs** (Hashes, URLs, IPs) en tiempo real usando la API de VirusTotal.
 * **Tecnologías:** Python, Flask, requests, HTML/CSS.
 * **Enlace al Repo:** [https://github.com/CCDani/DynamicWeb-IOC-checker](https://github.com/CCDani/DynamicWeb-IOC-checker)
