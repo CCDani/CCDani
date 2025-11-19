@@ -52,6 +52,7 @@ Este repositorio (y la automatización que lo respalda) refleja mis habilidades 
 * **Descripción y Enfoque:** Aplicación web dinámica (Flask) para **consultar IOCs** (Hashes, URLs, IPs) en tiempo real usando la API de VirusTotal.
 * **Tecnologías:** Python, Flask, requests, HTML/CSS.
 * **Enlace al Repo:** [https://github.com/CCDani/DynamicWeb-IOC-checker](https://github.com/CCDani/DynamicWeb-IOC-checker)
+* **Enlace a la web:** [https://checkyourioc.pythonanywhere.com/](https://checkyourioc.pythonanywhere.com/)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/56667bab-8a56-4e79-b451-2b09818a7514" alt="Captura de DynamicWeb IOC-Checker" width="700"/>
@@ -90,7 +91,7 @@ Este repositorio (y la automatización que lo respalda) refleja mis habilidades 
 
 ## 📫 Conexión
 
-Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi!
+¡No dudes en contactarme para oportunidades de colaboración, discusiones técnicas o simplemente para saludar!
 
 ```mermaid
 flowchart LR
