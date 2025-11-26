@@ -70,14 +70,14 @@
 
 ---
 
-### 3. DynamicWeb IOC-Checker (Web)
+### 3. IOC-Checker-Pro (Web)
 * **Descripción y Enfoque:** Aplicación web dinámica (Flask) para **consultar IOCs** (Hashes, URLs, IPs) en tiempo real usando la API de VirusTotal.
 * **Tecnologías:** Python, Flask, requests, HTML/CSS.
-* **Enlace al Repo:** [https://github.com/CCDani/DynamicWeb-IOC-checker](https://github.com/CCDani/DynamicWeb-IOC-checker)
+* **Enlace al Repo:** [https://github.com/CCDani/IOC-Checker-Pro](https://github.com/CCDani/IOC-Checker-Pro)
 * **Enlace a la web:** [https://checkyourioc.pythonanywhere.com/](https://checkyourioc.pythonanywhere.com/)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/56667bab-8a56-4e79-b451-2b09818a7514" alt="Captura de DynamicWeb IOC-Checker" width="700"/>
+  <img src="https://raw.githubusercontent.com/CCDani/IOC-Checker-Pro/refs/heads/main/Captura.PNG" alt="Captura de DynamicWeb IOC-Checker" width="700"/>
 </p>
 
 ---
